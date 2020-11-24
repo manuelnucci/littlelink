@@ -425,3 +425,11 @@ td,
 th {
   padding: 0;
 }
+
+/* Dark Mode
+   ========================================================================== */
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
